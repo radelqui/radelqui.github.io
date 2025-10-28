@@ -48,7 +48,8 @@ header {
 }
 
 .logo {
-    font-size: 5rem;
+    width: 120px;
+    height: auto;
     filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.1));
 }
 
@@ -185,7 +186,7 @@ footer p {
     }
 
     .logo {
-        font-size: 3.5rem;
+        width: 80px;
     }
 
     header h1 {
